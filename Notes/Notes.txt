@@ -1,1 +1,9 @@
-Anotações básicas
+- Criar pasta .vscode
+- Dentro da pasta .vscode
+  - Criar arquivo extensions.json
+    - Dentro do arquivo colocar o códgio ".\Startup_files\extensions.json"
+  - Criar arquivo settings.json
+    - Dentro do arquivo colocar o códgio ".\Startup_files\settings.json"
+- Ir em extenções
+  - Abrir "Workspace recommended"
+  - Instalar extenções recomandadas
