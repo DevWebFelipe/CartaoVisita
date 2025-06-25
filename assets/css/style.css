@@ -8,3 +8,49 @@ body {
 
   background: url(../img/bg-mobile.jpg) no-repeat top center/cover;
 }
+
+body * {
+  font-family: "Inter", sans-serif;
+  color: #fff;
+}
+
+.profile p {
+  font-weight: 500;
+  line-height: 24px;
+}
+
+#container {
+  width: 360px;
+  height: 712px;
+  margin: auto;
+  border: 1px solid red;
+}
+
+#profile {
+  border: 1px solid white;
+  height: 192px;
+}
+
+#profile img {
+  width: 120px;
+
+  /* img por padrão é display inline 
+     elementos inline não aceitam algumas propriedades
+     para usar margin auto, precisa transformar o display em block 
+     
+     outra forma de fazer, seria pegar o elemento pai
+     e usar o text-align como center, também resolveria
+     
+     para essa segunda forma, vale ressaltar que se o elemento
+     filho for display block, não vai centralizar, porqie aí ocupa 
+     toda a largura
+  */
+  display: block;
+  margin: auto;
+  margin-top: 24px;
+}
+
+#profile p {
+  text-align: center;
+  color: white;
+}
