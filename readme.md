@@ -10,6 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Projeto feito em finalização do curso Discovery da RocketSeat
+Tem por objetivo servir de cartão de visitas, mostrando alguns projetos já realizados e hospedados no netlify bem como links para redes sociais e contatos
 
 ## 🔖 Layout
 
