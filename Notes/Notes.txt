@@ -7,3 +7,25 @@
 - Ir em extenções
   - Abrir "Workspace recommended"
   - Instalar extenções recomandadas
+
+
+Estrutura de pastas
+
+projeto/
+├── index.html
+├── about.html               # outras páginas opcionais
+├── assets/                  # pasta para arquivos estáticos
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+    ├── img/
+    │   ├── logo.svg
+    │   ├── background.jpg
+    │   └── icones/
+    │       └── github.svg
+│   └── fonts/
+│       └── fonte.ttf
+├── README.md
+├── .gitignore
+└── LICENSE (opcional)
